@@ -32,3 +32,5 @@ The code base on the ndvi-anomaly repo provides all the methods necessary for ru
    * The other parameters (`input-products`, `queue`, `resolution` etc.) should mostly stay as their defaults.
     
    * Hit the `submit` button when you're happy with the inputs and the code will be deployed.
+
+<img align="center" src="https://github.com/digitalearthafrica/ndvi-anomalies/blob/main/figs/ndvi_anom_argo.PNG" width="80%">
